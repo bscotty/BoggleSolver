@@ -1,4 +1,7 @@
 ~4 Hour Boggle Blitz!
+Hosted at https://boggle-solver-bf06b.firebaseapp.com/
+
+
 # New Files
 
 ## HTML Files
