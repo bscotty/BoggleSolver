@@ -1,0 +1,13 @@
+html {
+    text-align: center;
+}
+
+input[type=text] {
+    font-size: 60px;
+    text-align: center;
+
+    margin: 5px 3px;
+
+    height: 60px;
+    width: 60px;
+}
